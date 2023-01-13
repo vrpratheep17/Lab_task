@@ -18,7 +18,7 @@
 
 2. backend  
     * Backend is implemented via Graphql , all the task are stored in json and based on the given assignment
-        there is need for only 3 Graphql API only the needed api is deleted. 
+        there is need for only 3 Graphql API only the needed api is created. 
 
 3. Schema Design
     * To design the schema I've used Sequelize considering the reason it's much easy to switch database 
