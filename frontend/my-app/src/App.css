@@ -1,0 +1,12 @@
+.bgPrimaryColor {
+  background-color: #00006a;
+}
+
+.borderRadius50 {
+  border-radius: 50%;
+}
+
+.btn-primary {
+  background-color: #00006a !important;
+  border-color: #00006a;
+}
